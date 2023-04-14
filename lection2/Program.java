@@ -1,6 +1,5 @@
-package ru.geekbrains.lesson2;
+package lection2;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class Program {
